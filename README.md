@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamtariqahmed
-- 👀 I’m interested in chaning my life
-- 🌱 I’m currently learning everything I can about coding
+- 👀 I’m interested in software testing and coding
+- 🌱 I’m currently learning everything I can about manual and automated testing
 - 💞️ I’m looking to collaborate on fun stuff
 - 📫 How to reach me: tariqquadirahmed@gmail.com
 
